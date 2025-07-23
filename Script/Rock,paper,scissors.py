@@ -117,7 +117,7 @@ st.markdown("""
     background-color: #fff4ec;
 }
 
-/* Input styling (optional) */
+/* Input styling */
 input[type="text"], textarea {
     border: 2px solid #BE5014;
     border-radius: 8px;
@@ -227,7 +227,7 @@ with st.sidebar:
         line-height: 1.6;
         color: #374151;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        max-width: 500px;
+        max-width: 700px;
         margin: 0 auto;
     '>
         <h4 style='margin-top: 0; display: flex; align-items: center; color: #A1440E;'>
