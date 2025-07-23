@@ -33,6 +33,19 @@ This mini project was built to:
 
 ## 💻 How to Run Locally
 
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/SOFIAMORETTI01/rock-paper-scissors.git
+   cd rock-paper-scissors
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r Script/requirements.txt
+
+4. **Run the scripts:**
+   ```bash
+   streamlit run Script/Rock_paper_scissors.py
+
 
 ---
 
