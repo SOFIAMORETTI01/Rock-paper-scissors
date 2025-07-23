@@ -1,7 +1,9 @@
 # ✊ Rock, Paper, Scissors
 
 This interactive game uses **Markov Chains** to try to predict your next move based on your past choices.  
+
 It's a fun demo of how simple predictive models can adapt to human patterns.
+
 🧠 Will the AI outsmart you, or will you break the pattern?
 
 ---
@@ -45,7 +47,6 @@ This mini project was built to:
 4. **Run the scripts:**
    ```bash
    streamlit run Script/Rock_paper_scissors.py
-
 
 ---
 
