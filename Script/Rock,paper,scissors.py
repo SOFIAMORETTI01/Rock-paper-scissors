@@ -267,7 +267,7 @@ with col2:
         st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         if st.button("PAPER"):
             user_move = "paper"
-        st.image("paper.png", width=100)
+        st.image("Script/paper.png", width=100)
         st.markdown("</div>", unsafe_allow_html=True)
 
 with col3:
@@ -275,7 +275,7 @@ with col3:
         st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         if st.button("SCISSORS"):
             user_move = "scissors"
-        st.image("scissors.png", width=100)
+        st.image("Script/scissors.png", width=100)
         st.markdown("</div>", unsafe_allow_html=True)
 
 # ---  Game Logic ---
