@@ -150,6 +150,12 @@ section[data-testid="stSidebar"] {
     margin-bottom: 15px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.05);
 }
+    <style>
+/* Aumentar el ancho del sidebar */
+    [data-testid="stSidebar"] {
+        width: 400px !important;
+        max-width: 400px !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
