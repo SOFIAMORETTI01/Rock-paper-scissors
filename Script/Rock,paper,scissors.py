@@ -156,7 +156,7 @@ section[data-testid="stSidebar"] {
 
 # ---  Game Title ---
 st.markdown('<div class="main-title">✊ ROCK, PAPER, SCISSORS </div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">🎮 PREDICTIVE AI GAME USING MARKOV CHAINS </div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle"> PREDICTIVE AI GAME USING MARKOV CHAINS </div>', unsafe_allow_html=True)
 st.markdown('<div class="centered"><div class="move-title">CHOOSE YOUR MOVE</div></div>', unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
 
@@ -250,7 +250,7 @@ with st.sidebar:
         st.session_state.hits = []
         st.rerun()
 
-# --- 🎮 Move Selection Buttons (with images) ---
+# ---  Move Selection Buttons (with images) ---
 col_empty1, col1, col2, col3 = st.columns([0.6, 1.5, 1.5, 1.5])
 user_move = None
 
@@ -295,7 +295,7 @@ if user_move:
 
     st.markdown(f"""
     <div class="custom-alert">
-    🤖 AI chose: <strong>{ai_move.upper()}</strong>
+    🎮 AI chose: <strong>{ai_move.upper()}</strong>
     </div>
     """, unsafe_allow_html=True)
 
