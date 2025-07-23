@@ -259,7 +259,7 @@ with col1:
         st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
         if st.button("ROCK"):
             user_move = "rock"
-        st.image("rock.png", width=100)
+        st.image("Script/rock.png", width=100)
         st.markdown("</div>", unsafe_allow_html=True)
 
 with col2:
