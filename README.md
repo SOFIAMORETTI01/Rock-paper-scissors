@@ -16,9 +16,11 @@ It's a fun demo of how simple predictive models can adapt to human patterns.
 
 ## 🚀 Tech Stack
 
-- 🐍 Python: `pandas`, `numpy`, `streamlit`
-- 🎲 AI Logic: Markov Chains (order 1, 2, and 3)
-- 🎨 UI: Streamlit + custom CSS
+🐍 Python: `pandas`, `numpy`, `streamlit`
+
+🎲 AI Logic: Markov Chains (order 1, 2, and 3)
+
+🎨 UI: Streamlit + custom CSS
 
 ---
 
