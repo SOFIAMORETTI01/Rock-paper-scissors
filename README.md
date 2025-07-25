@@ -53,10 +53,10 @@ This mini project was built to:
 ## 🌟 Future Improvements
 
 Some enhancements that could elevate this project and demonstrate more advanced machine learning techniques:
-- 🧠 **Switch to a probabilistic model like Naive Bayes or Logistic Regression** to predict the next move based on encoded player history.
-- 🔄 **Implement model selection or ensemble strategies**, combining multiple prediction methods (Markov + ML) and choosing the best in real time.
-- 📊 **Feature engineering from player sequences**, including frequency of transitions, reaction time (if tracked), and preferred move cycles.
-- 🧮 **Train a simple Recurrent Neural Network (RNN)** to model sequential dependencies in player behavior.
-- 🗃️ **Persist historical player data** for training a model that adapts across multiple sessions or users.
+🧠 **Switch to a probabilistic model like Naive Bayes or Logistic Regression** to predict the next move based on encoded player history.
+🔄 **Implement model selection or ensemble strategies**, combining multiple prediction methods (Markov + ML) and choosing the best in real time.
+📊 **Feature engineering from player sequences**, including frequency of transitions, reaction time (if tracked), and preferred move cycles.
+🧮 **Train a simple Recurrent Neural Network (RNN)** to model sequential dependencies in player behavior.
+🗃️ **Persist historical player data** for training a model that adapts across multiple sessions or users.
 These improvements would enable deeper exploration into behavioral modeling, predictive analytics, and adaptive gameplay using ML.
 
