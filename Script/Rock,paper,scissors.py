@@ -28,7 +28,7 @@ st.markdown("""
     margin-bottom: 30px;
 }
 
-/* General buttons (e.g., move, reset) */
+/* General buttons */
 .stButton > button {
     background-color: #BE5014;
     color: white;
@@ -47,7 +47,7 @@ st.markdown("""
     box-shadow: 0 0 0 2px #be50144d;
 }
 
-/* Section headers like STATS or GAME HISTORY */
+/* Section headers */
 .move-title {
     background-color: white;
     color: #BE5014;
@@ -150,11 +150,9 @@ section[data-testid="stSidebar"] {
     margin-bottom: 15px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.05);
 }
-    /* Ensancha el sidebar */
     section[data-testid="stSidebar"] {
         width: 400px !important;
     }
-    /* Ensancha también el contenedor interno del contenido */
     div[data-testid="stSidebarContent"] {
         max-width: 400px !important;
         padding-right: 20px;
